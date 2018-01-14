@@ -8,7 +8,7 @@ The next step was then to use unsupervised machine learning algorithms to explor
 ![NN graph 1](Figure_1.png)
 ![NN graph 2](Figure_2.png)
 ![NN graph 3](Figure_3.png)
-*<p align="center">Fig. 1-3: Graphs of neural network training vector clusters produced during three different runs</p>*
+<p align="center"><i>Fig. 1-3: Graphs of neural network training vector clusters produced during three different runs</i></p>
 
 ![KNN graph](Figure_4.png)
-*<p align="center">Fig. 4: Graph of KNN clustering algorithm</p>*
+<p align="center"><i>Fig. 4: Graph of KNN clustering algorithm</i></p>
